@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 public class HomePage {
+	//Shashi changed
 	WebDriver driver; 
 	WebDriverWait wait;
 	@FindBy(linkText=("My Account"))
